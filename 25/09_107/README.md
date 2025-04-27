@@ -4,10 +4,10 @@ This project implements various deep learning models for vegetation segmentation
 Team Members 
 522107 (Aryan Bhadauria) Team Lead <br>
 522115 (Abhishek chavan)<br>
-522254 (Vikas Chaudhary)
-522248 (Utkarsh Gadhe)
-522225 (Prashant kumar)
-522240 (Saurabh Jha)
+522254 (Vikas Chaudhary)<br>
+522248 (Utkarsh Gadhe)<br>
+522225 (Prashant kumar)<br>
+522240 (Saurabh Jha)<br>
 
 ## Setup Instruction 
 
